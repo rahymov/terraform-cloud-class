@@ -32,3 +32,4 @@ resource "aws_instance" "web2" {
   tags = {
     Name = "NewO"
   }
+}
